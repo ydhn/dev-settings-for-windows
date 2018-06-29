@@ -1,9 +1,9 @@
 # dev-settings-for-windows
 
 ## Hyper
-hyper.js https://hyper.is/
-hyperstart.bat https://gist.github.com/legowerewolf/a3e0eb7830752488fec329c7bdcb2d2a
-.hyper.js
+- hyper.js https://hyper.is/
+- hyperstart.bat https://gist.github.com/legowerewolf/a3e0eb7830752488fec329c7bdcb2d2a
+- .hyper.js
 ```js
 colors: {
     black: '#000000',
@@ -30,4 +30,4 @@ shellArgs: ['/C', 'C:\\Users\\yundo\\hyperstart.bat'],
 ```
 
 ## Git
-Use git on wsl as default https://github.com/andy-5/wslgit
+- Use git on wsl as default https://github.com/andy-5/wslgit
