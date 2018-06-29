@@ -63,5 +63,8 @@ shell: '', // CMD
 shellArgs: ['/C', 'C:\\Users\\yundo\\hyperstart.bat'],
 ```
 
-## Git
+## Git with Visual Studio Code
 - Use git on wsl as default https://github.com/andy-5/wslgit
+
+## Docker
+https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly
